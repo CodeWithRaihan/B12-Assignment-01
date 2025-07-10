@@ -16,6 +16,7 @@
 .body{
     margin: 0;
     padding: 0;
+    background-color: rgb(245, 248, 255) !important;
 
 }
  
@@ -34,9 +35,8 @@
 button:hover{
     transform: scale(1.2);
     transition: 2s;
-    background-color: skyblue;
-    color: blue;
-    
+    background-color: #C8B1E6;
+    color: black;
 
 }
 .text-center{
