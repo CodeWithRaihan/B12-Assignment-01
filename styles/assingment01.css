@@ -191,4 +191,43 @@ main section{
     border-radius:48px ;
 
 }
- 
+/* Let’s Get in Touch styles  */
+ .s5-lets-get-touch{
+    margin: 137px auto;
+ }
+ .column-container{
+    display: flex;
+    gap: 115px;
+    justify-content: center;
+    align-items: center;
+
+ }
+ .left-column{
+    width: 100%;
+ }
+ .column-title{
+    font-size:97px;
+    font-weight: bold;
+ }
+ .right-column{
+    display: block;
+ }
+ .right-column label{
+    color: rgba(0, 0, 0, 1);
+    font-size: 18px;
+    font-weight: 500;
+ }
+ .right-column input[type="email"],input[type="text"],textarea{
+    height: 70px;
+    border-radius: 10px;
+    width: 100%;
+    background-color:rgb(247, 244, 244) ;
+    border: none;
+    padding-left: 20px;
+   
+ }
+ .btn-touch{
+     width: 100%;
+     height: 62px;
+    margin-top: 19px;
+ }
