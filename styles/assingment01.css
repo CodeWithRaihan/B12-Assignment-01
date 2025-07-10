@@ -168,7 +168,7 @@ main section{
     font-size: 14px;
     color: #B3B3B3;
 }
-/* ready to focus better styles */
+/* ready to focus better styles  s5*/
 .s4-ready-to-focus-better{
     margin: 137px auto;
     display: flex;
@@ -231,3 +231,26 @@ main section{
      height: 62px;
     margin-top: 19px;
  }
+ /* footer styles */
+ .footer-container{
+    width: 531px;
+    margin: 104px auto;
+
+ }
+.big-logo{
+     font-size: 100px;
+     font-weight: 900;
+}
+.logo-description{
+    padding:8px 0 20px 0 ;
+    color: rgba(137, 135, 161, 1);
+}
+.nav-link{
+    display: flex;
+    justify-content: center;
+    gap: 48px;
+}
+.nav-link a{
+    text-decoration: none;
+    color: rgba(137, 135, 161, 1);
+}
