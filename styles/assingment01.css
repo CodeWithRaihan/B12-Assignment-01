@@ -168,4 +168,27 @@ main section{
     font-size: 14px;
     color: #B3B3B3;
 }
+/* ready to focus better styles */
+.s4-ready-to-focus-better{
+    margin: 137px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.ready-focus-title{
+    font-size: 50px;
+    font-weight: bold; 
+   
+}
+.ready-focus-subtitle{
+     color: (0, 0, 0, 0.5);
+     padding-bottom: 20px;
+}
+.Ger-Started-btn{
+     padding-bottom: 20px;
+}
+.ready-focus-coverpic{
+    align-items: center;
+    border-radius:48px ;
 
+}
+ 
